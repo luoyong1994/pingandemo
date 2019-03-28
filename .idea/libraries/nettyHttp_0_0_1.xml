@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nettyHttp-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/nettyHttp-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
